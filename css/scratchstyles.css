@@ -1,0 +1,48 @@
+.common{
+    background-color: #F5F5DC;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    border: 5px solid black;
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+}
+ol{
+    list-style-position: inside;
+}
+ul{
+    list-style-position: inside;
+}
+#top{
+    text-decoration: underline;
+}
+.img{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.header{
+    height: 200px;
+    background-color: beige;
+    color: black;
+}
+.hannah{
+    height: 3400px;
+    background-color: slategray;
+    color: black;
+}
+.mainbody{
+    background-color: whitesmoke;
+}
+.footer{
+    height: 25px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    line-height: 25px;
+    padding-top: 20px;
+}
